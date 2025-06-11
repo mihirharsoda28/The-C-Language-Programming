@@ -11,8 +11,6 @@ This course is designed to take you from a beginner to an advanced C programmer.
   - [Chapters](#chapters)
   - [Projects](#projects)
   - [Problem Sets](#problem-sets)
-  - [Additional Resources](#additional-resources)
-  - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Introduction
 
@@ -57,3 +55,18 @@ The course is divided into several chapters, each focusing on different aspects 
 - **Chapter 11: Dynamic Memory Allocation**
   - `malloc()`, `calloc()`, `realloc()`, and `free()` functions.
   - Managing dynamically allocated memory.
+
+## Projects
+
+- **Project 1: Number Guessing Game**
+  - A fun game where the player tries to guess a randomly generated number.
+- **Project 2: Snake Water Gun Game**
+  - A variation of the classic Rock-Paper-Scissors game.
+ 
+## Problem Sets
+
+Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
+
+---
+
+Feel free to explore each chapter and work through the exercises to reinforce your learning. Happy coding!
