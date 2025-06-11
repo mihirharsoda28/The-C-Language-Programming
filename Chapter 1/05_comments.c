@@ -1,7 +1,6 @@
 /*
 Program: 05_comments.c
-Author: Harry
-Date: 3 October 2030
+Author: Mihir Harsoda
 */
 #include<stdio.h>
 
